@@ -24,20 +24,24 @@ Welcome to Super Dungeon Creator! This Privacy Policy is designed to help you un
 
 3.3. In-App Purchase Information is used to process transactions and provide you with purchased products or services.
 
-## 4. Data Security
+## 4. Data Deletion
+
+You have the right to request the deletion of your account and any data we have collected from you. To initiate the account and data deletion process, please contact our staff at the following email address: james.bergisch@outlook.com. Please note that data deletion requests will be processed within a reasonable time frame, subject to legal obligations and technical limitations.
+
+## 5. Data Security
 
 We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of data transmission over the internet or electronic storage is completely secure, and we cannot guarantee the absolute security of your data.
 
-## 5. Third-Party Services
+## 6. Third-Party Services
 
 5.1. Our app utilizes Google services (AdMob and Billing). These services have their own privacy policies, and we encourage you to review them for more information on how they collect and use data.
 
 5.2. Our app may contain links to third-party websites or services. We are not responsible for the privacy practices or content of these third parties, and your use of their services is subject to their respective terms and policies.
 
-## 6. Changes to this Privacy Policy
+## 7. Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page with an updated effective date. It is your responsibility to review this Privacy Policy periodically.
 
-## 7. Contact Us
+## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [TBD].
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at james.bergisch@outlook.com.
